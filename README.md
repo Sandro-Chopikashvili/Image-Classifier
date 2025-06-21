@@ -44,22 +44,6 @@ Go to `http://127.0.0.1:5000` and upload a fruit image.
 ![Demo Screenshot](demo.png)  
 *A simple interface to test your fruit classification model.*
 
-## 📁 Project Structure
-
-```
-fruit-image-classifier/
-│
-├── model.pth               # Trained model weights
-├── app.py                  # Flask application
-├── templates/
-│   └── index.html          # Webpage layout
-├── static/
-│   └── style.css           # Styling for the UI
-├── utils.py                # Helper functions (e.g., image preprocessing)
-├── requirements.txt        # Python dependencies
-└── README.md               # This file
-```
-
 ## ⚙️ Technologies Used
 
 - **PyTorch** - model training & inference
