@@ -26,23 +26,10 @@ git clone https://github.com/yourusername/fruit-image-classifier.git
 cd fruit-image-classifier
 ```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### 3. Run the Flask App
 ```bash
 python app.py
 ```
-
-### 4. Open in Browser
-Go to `http://127.0.0.1:5000` and upload a fruit image.
-
-## 🖼️ Demo Screenshot
-
-![Demo Screenshot](demo.png)  
-*A simple interface to test your fruit classification model.*
 
 ## ⚙️ Technologies Used
 
@@ -51,7 +38,7 @@ Go to `http://127.0.0.1:5000` and upload a fruit image.
 - **Flask** - web framework
 - **HTML/CSS** - user interface
 
-## ✨ Future Improvements
+##  Future Improvements
 
 - Show model confidence scores
 - Add drag-and-drop support
