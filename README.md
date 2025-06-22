@@ -10,7 +10,7 @@ This is a multi-class image classification project that identifies different typ
 - **Model Architecture**: ResNet-18 (pre-trained on ImageNet)
 - **Transfer Learning**: Final layer was fine-tuned on a custom fruits dataset.
 - **Task**: Multi-class image classification (e.g., apple, banana, orange, etc.)
-- **Dataset**: [Fruits-360](https://www.kaggle.com/moltean/fruits) or a custom fruit dataset
+- **Dataset**: [Fruits-360](https://www.kaggle.com/moltean/fruits) 
 
 ## 🌐 Web Interface
 
