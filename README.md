@@ -45,5 +45,3 @@ python app.py
 - Deploy online via Render/Heroku
 
 ---
-
-Feel free to customize the demo video, GitHub repo link, or deployment instructions!
